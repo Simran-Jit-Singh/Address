@@ -9,6 +9,7 @@ Programming language used is java
 
 
 Install java with version greater than 6.
+
 Install gradle from here: https://gradle.org/
 
 **To run the tests**
