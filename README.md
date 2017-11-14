@@ -11,9 +11,9 @@ Programming language used is java
 Install java with version greater than 6.
 Install gradle from here: https://gradle.org/
 
-*To run the tests*
+**To run the tests**
 
-_Clone project from https://github.com/Simran-Jit-Singh/Address.git
+Clone project from https://github.com/Simran-Jit-Singh/Address.git
 
 _move to the directory where you cloned the project._
 
