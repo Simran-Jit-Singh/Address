@@ -8,7 +8,7 @@ Programming language used is java
 **Prerequisite**
 
 
-Install java with version greater than 6.
+Install java with version greater than 7.
 
 Install gradle from here: https://gradle.org/
 
